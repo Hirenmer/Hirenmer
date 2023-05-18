@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hirenmer
-- 👀 I’m interested in React Native Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on App development
+- 👀 I’m interested in Power BI
+- 🌱 I’m currently doing Power BI Projects
+- 💞️ I’m looking to work on Power BI
 - 📫 How to reach me prof.hirenmer@gmail.com
 
 <!---
